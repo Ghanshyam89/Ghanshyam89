@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/Ghanshyam89#4187"><img src="https://img.shields.io/badge/-Ghanshyam89%239622-333333?style=flat-square&logo=discord"/></a>
 <a href="https://m.facebook.com/ghanshyam.username"><img src="https://img.shields.io/badge/-Ghanshyam Prajapati-333333?style=flat-square&logo=facebook"/></a>
 <a href="https://www.youtube.com/c/GhanshyamTheCOMRADE"><img src="https://img.shields.io/badge/-Ghanshyam The COMRADE-333333?style=flat-square&logo=youtube"/></a>
-  
+<a href="https://about.me/ghanshyamprajapati"><img src="https://img.shields.io/badge/-Ghanshyam Prajapati-333333?style=flat-square&logo=aboutme"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghanshyam89&label=Ghanshyam's%20Profile%20Views&color=135429&style=flat"/> </p>
 
 ## About Me 
@@ -42,6 +42,7 @@
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
