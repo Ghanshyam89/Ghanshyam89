@@ -19,7 +19,7 @@
 
 </br>
 
-## Tech Knowdledge
+## Tech Knowledge
 
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
