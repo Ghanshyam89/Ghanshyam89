@@ -11,8 +11,8 @@
 
 ## About Me 
 
-- 🎮 I'm a Tech-Enthusiast willing to learn, unlearn and relearn in the Tech Industry with a knack for growth
-- 🎼 I enjoy generating new ideas and devising feasible solutions to broadly relevant problems
+- 🖥️ I'm a Tech-Enthusiast willing to learn, unlearn and relearn in the Tech Industry with a knack for growth
+- 💡 I enjoy generating new ideas and devising feasible solutions to broadly relevant problems
 - 🎓 B.Tech in Computer Science and Engineering on progress
 - 🧑‍💻 Software Developer since 2019
 - 💼 Currently working at <a href="http://www.aasmaanfoundation.org/about.html">Aashman Foundation</a>
