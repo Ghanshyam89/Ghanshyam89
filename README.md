@@ -22,11 +22,11 @@
 ## Tech Knowledge
 
 ### Languages
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=7e10cc)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=7e10cc)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-lightgrey?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat&logo=java&logoColor=7e10cc)
+  ![C](https://img.shields.io/badge/-C-lightgrey?style=flat&logo=C&logoColor=7e10cc)
+  ![C++](https://img.shields.io/badge/-C++-lightgrey?style=flat&logo=cplusplus&logoColor=7e10cc)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=flat&logo=javascript)
   
 ### Libraries and Frameworks
  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
