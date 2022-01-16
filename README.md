@@ -3,10 +3,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ghanshyam-prajapati"><img src="https://img.shields.io/badge/-Ghanshyam%20Prajapati-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/ghanshyam_prajapati_0728"><img src="https://img.shields.io/badge/-@ghanshyam_prajapti_0728-eb349b?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/Ghanshyam89#4187"><img src="https://img.shields.io/badge/-Ghanshyam89%239622-333333?style=flat-square&logo=discord&logoColor=white"/></a>
-<a href="https://m.facebook.com/ghanshyam.username"><img src="https://img.shields.io/badge/-Ghanshyam Prajapati-333333?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/GhanshyamTheCOMRADE"><img src="https://img.shields.io/badge/-Ghanshyam The COMRADE-333333?style=flat-square&logo=youtube&logoColor=white"/></a>
-<a href="https://about.me/ghanshyamprajapati"><img src="https://img.shields.io/badge/-Ghanshyam Prajapati-333333?style=flat-square&logo=aboutme&logoColor=white"/></a>
+<a href="https://discord.com/users/Ghanshyam89#4187"><img src="https://img.shields.io/badge/-Ghanshyam89%239622-191970?style=flat-square&logo=discord&logoColor=white"/></a>
+<a href="https://m.facebook.com/ghanshyam.username"><img src="https://img.shields.io/badge/-Ghanshyam Prajapati-4267B2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/GhanshyamTheCOMRADE"><img src="https://img.shields.io/badge/-Ghanshyam The COMRADE-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://about.me/ghanshyamprajapati"><img src="https://img.shields.io/badge/-Ghanshyam Prajapati-808080?style=flat-square&logo=google&logoColor=white"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ghanshyam89&label=Ghanshyam's%20Profile%20Views&color=135429&style=flat&logoColor=white"/> </p>
 
 ## About Me 
