@@ -31,14 +31,14 @@
 ### Libraries and Frameworks
  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
- ![Swing](https://img.shields.io/badge/-Swing-333333?style=flat&logo=java-swing&logoColor=f73636)
+ ![Swing](https://img.shields.io/badge/-Swing-333333?style=flat&logo=java&logoColor=f73636)
    
 ### Infrastructure and Development
+   ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=googlecloud)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-lightgrey)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -51,9 +51,10 @@
 ## Technologies I'm interested to learn more 
 
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
+  ![Quantum Computing](https://img.shields.io/badge/-Quantum%20Computing-333333?style=flat&logo=circle&logoColor=42bff5)
   ![Data Analytics](https://img.shields.io/badge/-Data_Analytics-333333?style=flat&logo=python&logoColor=42bff5)
-  ![Cloud](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=cloud&logoColor=42bff5)
-  ![BlockChain](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=blockchain&logoColor=42bff5)
+  ![Cloud Computing](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=googlecloud&logoColor=42bff5)
+  ![BlockChain](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=circle&logoColor=42bff5)
 </br>
 
 ## GitHub Analytics 
