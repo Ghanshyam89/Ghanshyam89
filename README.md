@@ -67,7 +67,7 @@
 </a>
 </p>
 
-## Ghanshyam's github activity graph
+## Ghanshyam's GitHub Activity Graph
 
 <p align="center">
 <a href="https://github.com/Ghanshyam89">
@@ -88,4 +88,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
