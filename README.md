@@ -17,8 +17,6 @@
 - 🧑‍💻 Software Developer since 2019
 - 💼 Currently working at <a href="http://www.aasmaanfoundation.org/about.html">Aashman Foundation</a>
 
-</br>
-
 ## Tech Knowledge
 
 ### Languages
@@ -46,8 +44,6 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
-</br>
-
 ## Technologies I'm interested to learn more 
 
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
@@ -55,7 +51,6 @@
   ![Data Analytics](https://img.shields.io/badge/-Data_Analytics-333333?style=flat&logo=python&logoColor=42bff5)
   ![Cloud Computing](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=googlecloud&logoColor=42bff5)
   ![BlockChain](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=circle&logoColor=42bff5)
-</br>
 
 ## GitHub Analytics 
 
