@@ -62,14 +62,14 @@
 </a>
 </p>
 
-## Ghanshyam's GitHub Activity Graph
+<!-- ## Ghanshyam's GitHub Activity Graph
 
 <p align="center">
 <a href="https://github.com/Ghanshyam89">
   <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=Ghanshyam89&theme=xcode"/>
 </a>
 </p>
-
+ -->
 <!--
 **DouglasDRF/DouglasDRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
